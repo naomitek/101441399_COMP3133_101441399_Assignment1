@@ -23,7 +23,7 @@
   "devDependencies": {
     "@apollo/client": "^3.13.1",
     "apollo-server-express": "^3.13.0",
-    "graphql": "^16.10.0",
+    "graphql": "^15.10.1",
     "jest": "^29.7.0",
     "nodemon": "^3.1.9"
   }
